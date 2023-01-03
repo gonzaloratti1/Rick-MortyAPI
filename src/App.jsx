@@ -1,6 +1,3 @@
-// FAZT API RICK AND MORTY
-
-
 import { useEffect, useState } from 'react'
 import CharacterList from './components/CharacterList';
 import Character from './components/Character';
